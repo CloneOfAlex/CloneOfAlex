@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader
   - Designing automation frameworks that scale seamlessly and integrate into CI/CD pipelines.
 - 📈 **Key Achievements**:
   - Reduced escaped defects numbers (defect leakage) by over 90% in multiple roles by implementing robust test automation strategies and shift left QA practices.
-  - Developed custom testing frameworks leveraging Playwright, Cypress, Selenium, and .NET C# for diverse application stacks.
+  - Developed custom testing frameworks leveraging Playwright, Cypress, Selenium, (Jave/C#) for diverse application stacks.
   - Spearheaded QA transformations, ensuring predictable releases and consistent quality metrics.
 
 ---
