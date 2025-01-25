@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, C#
 - **Frameworks**: Playwright, Cypress, Selenium, Cucumber
-- **Tools**: GitHub Actions, Jenkins, SonarQube, Postman, JMeter, SpecFlow, RestSharp, Newman
+- **Tools**: GitHub Actions, Jenkins, SonarQube, Postman, JMeter, SpecFlow, RestSharp, Newman, Azure DevOps, TeamCity, Octopus Deploy, Selenium Grid, BlazeMeter, SoapUI, Fiddler
 - **Cloud**: AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, Snowflake, CosmosDB
 
