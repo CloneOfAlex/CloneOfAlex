@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader
 - 🛠️ **Expertise**: Playwright, Cypress, Selenium, Java/C#, and modern test automation practices.
 - 🔧 **Focus Areas**:
   - Transforming chaotic QA processes into structured, efficient workflows.
+  - Shift Left process implementation enabling fast low cost defects detection and resolution, supporting rapid frequent deployment practices
   - Building and mentoring high-performing QA teams from the ground up.
   - Designing automation frameworks that scale seamlessly and integrate into CI/CD pipelines.
 - 📈 **Key Achievements**:
