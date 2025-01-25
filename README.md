@@ -1,0 +1,66 @@
+# 👋 Hi there! I'm Alex Markevich
+
+Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader** passionate about fixing messy QA processes, building high-performing teams, and implementing cutting-edge automation strategies to deliver exceptional software quality. I specialize in creating scalable, maintainable testing frameworks that align with modern development workflows.
+
+---
+
+## 🚀 About Me
+- 🌟 **Roles**: QA Automation Architect | QA Manager | QA Director
+- 🛠️ **Expertise**: Playwright, Cypress, Selenium, .NET C#, and modern test automation practices.
+- 🔧 **Focus Areas**:
+  - Transforming chaotic QA processes into structured, efficient workflows.
+  - Building and mentoring high-performing QA teams from the ground up.
+  - Designing automation frameworks that scale seamlessly and integrate into CI/CD pipelines.
+- 📈 **Key Achievements**:
+  - Reduced escaped defects numbers (defect leakage) by over 90% in multiple roles by implementing robust test automation strategies and shift left QA practices.
+  - Developed custom testing frameworks leveraging Playwright, Cypress, Selenium, and .NET C# for diverse application stacks.
+  - Spearheaded QA transformations, ensuring predictable releases and consistent quality metrics.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python, C#
+- **Frameworks**: Playwright, Cypress, Selenium, Cucumber
+- **Tools**: GitHub Actions, Jenkins, SonarQube, Postman, JMeter, SpecFlow, RestSharp, Newman
+- **Cloud**: AWS, Azure, GCP
+- **Databases**: MySQL, PostgreSQL, Snowflake, CosmosDB
+
+---
+
+## 📚 Recent Work
+### 🧪 QA Automation Practices
+- Developed scalable test automation frameworks with Playwright, Cypress, Selenium, and .NET C#, enhancing speed and reliability.
+- Introduced advanced testing methodologies, including data-driven and behavior-driven testing (BDD).
+
+### 🔍 Process Improvements
+- Revamped defect tracking workflows to focus on customer-accessible and high-severity issues.
+- Implemented severity-based prioritization to improve resolution times and team efficiency.
+
+### 🌟 Leadership Initiatives
+- Built QA teams from scratch, mentoring engineers to excel in automation and manual testing.
+- Defined quality strategies to align with business goals and modern DevOps practices.
+
+---
+
+## 🌱 Current Learning
+- 🧠 Exploring advanced techniques in **test orchestration** and **AI-driven automation tools**.
+- 📘 Deepening expertise in **team leadership** and **organizational quality transformation**.
+- 🛡️ Investigating the latest trends in **cloud-based testing environments**.
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/amarkevich](https://www.linkedin.com/in/amarkevich/)
+- **Email**: am@energyray.com
+- **Location**: Waukee, Iowa, USA
+
+---
+
+## 🏆 Fun Facts
+- 🛠️ Passionate about turning "QA messes" into structured, reliable systems.
+- 📖 Recently enjoyed "The Speed of Trust" and diving into "Mindset" by Carol Dweck.
+- 🖖 Avid fan of "The IT Crowd" and its witty take on tech culture.
+
+---
+
+Thank you for visiting my profile! Let’s connect to discuss automation, QA strategies, or building outstanding teams. Together, we can ensure every release meets the highest standards of quality.
