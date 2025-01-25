@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader
 - Introduced advanced testing methodologies, including data-driven and behavior-driven testing (BDD).
 
 ### 🔍 Process Improvements
+- Transformed chaotic QA processes into structured, efficient workflows.
+- Implemented Shift Left process changes for fast low cost defects detection and resolution, supporting rapid frequent deployment practices at reduced defects escape rates.
 - Revamped defect tracking workflows to focus on customer-accessible and high-severity issues.
 - Implemented severity-based prioritization to improve resolution times and team efficiency.
 
