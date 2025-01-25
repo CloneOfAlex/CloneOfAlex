@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm Alex Markevich
 
-Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader** passionate about fixing messy QA processes, building high-performing teams, and implementing cutting-edge automation strategies to deliver exceptional software quality. I specialize in creating scalable, maintainable testing frameworks that align with modern development workflows coupled with "Shift Left" Manual/Automated testing practices. My efforts deliver increased speed of delivery and verifiable reduction of the escaped defects by 90%. Solid KPI/ROI metrics come coupled with my offerings in every engagement of mine.
+Welcome to my GitHub profile! I am a **QA Automation Architect** and **QA Leader** passionate about fixing messy QA processes, building high-performing teams, and implementing cutting-edge automation strategies to deliver exceptional software quality. 
+
+I specialize in creating scalable, maintainable testing frameworks that align with modern development workflows coupled with "Shift Left" Manual/Automated testing practices. 
+My efforts deliver increased speed of delivery and verifiable reduction of the escaped defects by 90%. Solid KPI/ROI metrics come coupled with my offerings in every engagement of mine.
 
 ---
 
