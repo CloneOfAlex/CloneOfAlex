@@ -73,15 +73,3 @@ Thank you for visiting my profile! Let’s connect to discuss automation, QA str
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CloneOfAlex&title=Visitors)
 
-## 📊 GitHub Metrics
-Here are some key statistics about my GitHub account:
-- **Repositories**: ![Repositories Badge](https://badges.pufler.dev/repos/CloneOfAlex)
-- **Commits in Last Year**: ![Commits Badge](https://badges.pufler.dev/commits/yearly/CloneOfAlex)
-- **Years Active**: ![Years Active Badge](https://badges.pufler.dev/years/CloneOfAlex)
-- **Contributions**: ![Contributions Badge](https://badges.pufler.dev/contributions/CloneOfAlex)
-- **Followers**: ![Followers Badge](https://img.shields.io/github/followers/CloneOfAlex?style=social)
-- **Stars**: ![Stars Badge](https://img.shields.io/github/stars/CloneOfAlex?style=social)
-- **Forks**: ![Forks Badge](https://img.shields.io/github/forks/CloneOfAlex?style=social)
-- **Issues Opened**: ![Issues Opened Badge](https://img.shields.io/github/issues/CloneOfAlex)
-- **Pull Requests Merged**: ![PRs Merged Badge](https://img.shields.io/github/issues-pr-closed/CloneOfAlex)
-
