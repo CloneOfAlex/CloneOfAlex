@@ -70,3 +70,6 @@ My efforts deliver increased speed of delivery and verifiable reduction of the e
 ---
 
 Thank you for visiting my profile! Let’s connect to discuss automation, QA strategies, or building outstanding teams. Together, we can ensure every release meets the highest standards of quality.
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CloneOfAlex&title=Visitors)
+
