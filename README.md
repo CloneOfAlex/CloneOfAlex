@@ -74,3 +74,6 @@ Thank you for visiting my profile! Let’s connect to discuss automation, QA str
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CloneOfAlex&title=Visitors)
 
+[![ShinyStat Visitor Counter](https://www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-52675657-d6fbd)](https://www.shinystat.com/it/)
+
+
