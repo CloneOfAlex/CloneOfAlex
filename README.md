@@ -33,7 +33,8 @@ My efforts deliver increased speed of delivery and verifiable reduction of the e
 
 ## 📚 Recent Work
 ### 🧪 QA Automation Practices
-- Developed scalable test automation frameworks with Playwright, Cypress, Selenium, and .NET C#, enhancing speed and reliability.
+- Developed scalable web test automation frameworks with Playwright, Cypress, Selenium, and Java; JavaScript; TypeScript; .NET C#, enhancing speed and reliability.
+- Load, Performance, Stress, Soak testing with JMeter and K6 - testing how well applications handle expected traffic and operate under load.
 - Introduced advanced testing methodologies, including data-driven and behavior-driven testing (BDD).
 
 ### 🔍 Process Improvements
