@@ -75,4 +75,6 @@ Thank you for visiting my profile! Let’s connect to discuss automation, QA str
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CloneOfAlex&title=Visitors)
 ![Visits](https://shields.io/badge/dynamic/json?color=blue&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FCloneOfAlex%2Fgithub&style=flat)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CloneOfAlex.CloneOfAlex)
+
 [![ShinyStat Visitor Counter](https://www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-52675657-d6fbd)](https://www.shinystat.com/it/)
