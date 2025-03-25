@@ -77,4 +77,6 @@ Thank you for visiting my profile! Let’s connect to discuss automation, QA str
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CloneOfAlex.CloneOfAlex)
 
+![Visits](https://reporoster.com/badges/visits/CloneOfAlex/CloneOfAlex.svg)
+
 [![ShinyStat Visitor Counter](https://www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-52675657-d6fbd)](https://www.shinystat.com/it/)
